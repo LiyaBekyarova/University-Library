@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "unversity-library",
+			"path": "."
+		},
+		{
+			"name": "public",
+			"path": "../../Downloads/public"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "unversity-library"
+	}
+}
